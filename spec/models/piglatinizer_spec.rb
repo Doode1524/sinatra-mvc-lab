@@ -26,6 +26,5 @@ describe 'class PigLatinizer' do
 end
 
 
-ay + spr + ay
-word + ay
+
 
