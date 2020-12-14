@@ -24,3 +24,8 @@ describe 'class PigLatinizer' do
   end
 
 end
+
+
+ay + spr + ay
+word + ay
+
